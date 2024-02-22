@@ -1,0 +1,10 @@
+{
+  "firstName": "Alex",
+  "lastName": "Udilov",
+  "age": "35",
+  "gender": "male",
+  "hobbies": ["fishing", "testing", "reading"],
+  "anotherStudentInformation": {
+    "pets": ["dog", "cat"]
+  }
+}
